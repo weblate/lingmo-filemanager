@@ -185,13 +185,13 @@
         <location filename="../model/foldermodel.cpp" line="903"/>
         <location filename="../model/foldermodel.cpp" line="1779"/>
         <source>New Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo Texto</translation>
     </message>
     <message>
         <location filename="../model/foldermodel.cpp" line="1274"/>
         <location filename="../model/foldermodel.cpp" line="1778"/>
         <source>New Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevos Documentos</translation>
     </message>
     <message>
         <location filename="../model/foldermodel.cpp" line="1783"/>
@@ -241,12 +241,12 @@
     <message>
         <location filename="../model/foldermodel.cpp" line="1810"/>
         <source>Show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar archivos ocultos</translation>
     </message>
     <message>
         <location filename="../model/foldermodel.cpp" line="1815"/>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir en una ventana nueva</translation>
     </message>
 </context>
 <context>
@@ -320,12 +320,12 @@
     <message>
         <location filename="../qml/FolderPage.qml" line="114"/>
         <source>File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Administrador de archivos</translation>
     </message>
     <message>
         <location filename="../qml/FolderPage.qml" line="115"/>
         <source>A file manager designed for LingmoOS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un administrador de archivos diseñado para LingmoOS.</translation>
     </message>
     <message>
         <location filename="../qml/FolderPage.qml" line="268"/>
@@ -460,7 +460,7 @@
     <message>
         <location filename="../model/placesmodel.cpp" line="169"/>
         <source>Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Equipo</translation>
     </message>
 </context>
 <context>
@@ -524,22 +524,22 @@
     <message>
         <location filename="../qml/SideBar.qml" line="126"/>
         <source>Open</source>
-        <translation type="unfinished">Abrir</translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <location filename="../qml/SideBar.qml" line="137"/>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir en una ventana nueva</translation>
     </message>
     <message>
         <location filename="../qml/SideBar.qml" line="151"/>
         <source>Eject</source>
-        <translation type="unfinished"></translation>
+        <translation>Expulsar</translation>
     </message>
     <message>
         <location filename="../qml/SideBar.qml" line="164"/>
         <source>Unmount</source>
-        <translation type="unfinished"></translation>
+        <translation>Desmontar</translation>
     </message>
 </context>
 <context>
